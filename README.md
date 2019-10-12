@@ -1,2 +1,6 @@
 # Machine-Learning-Challenge
-![Image of Kepler Exoplanet Transit Hunt](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwi7zJWVnJblAhVSiqwKHSfGDMcQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.jpl.nasa.gov%2Fedu%2Fteach%2Factivity%2Fexploring-exoplanets-with-kepler%2F&psig=AOvVaw3iXOCBI_JlBPOLZyyGoZAv&ust=1570952475682758)
+![Mercury Passing in Front of the Sun](http://www.jpl.nasa.gov/edu/images/news/transit_mercury-2006.jpg)
+
+Linear Regression was not a good model for this dataset because there are too many features.  Logistic Regression handled things better because, at it's core, this is a classification problem.  If I had more time I would have used a Deep Learning algorithm and possibly a neural network.  These two moddels, with their itterative processes may be a better fit for this complex dataset.
+
+To learn more about exoplanets and the Kepler datasets, go to the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/index.html)
